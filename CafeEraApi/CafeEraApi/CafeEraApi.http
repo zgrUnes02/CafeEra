@@ -1,0 +1,6 @@
+@CafeEraApi_HostAddress = http://localhost:5023
+
+GET {{CafeEraApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

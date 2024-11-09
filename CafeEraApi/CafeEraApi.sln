@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CafeEraApi", "CafeEraApi\CafeEraApi.csproj", "{2F8255CE-1FB4-4793-9FB3-A896F4D0845D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F8255CE-1FB4-4793-9FB3-A896F4D0845D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F8255CE-1FB4-4793-9FB3-A896F4D0845D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F8255CE-1FB4-4793-9FB3-A896F4D0845D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F8255CE-1FB4-4793-9FB3-A896F4D0845D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAA1F706-0E3A-49AF-A41A-DE2D7D6C9E2B}
+	EndGlobalSection
+EndGlobal
