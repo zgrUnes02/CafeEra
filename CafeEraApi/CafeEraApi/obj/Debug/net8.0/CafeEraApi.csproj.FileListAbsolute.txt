@@ -141,3 +141,4 @@ C:\Users\youness zagouri\Desktop\LP FSAC\CafeEra\CafeEraApi\CafeEraApi\obj\Debug
 C:\Users\youness zagouri\Desktop\LP FSAC\CafeEra\CafeEraApi\CafeEraApi\obj\Debug\net8.0\CafeEraApi.pdb
 C:\Users\youness zagouri\Desktop\LP FSAC\CafeEra\CafeEraApi\CafeEraApi\obj\Debug\net8.0\CafeEraApi.genruntimeconfig.cache
 C:\Users\youness zagouri\Desktop\LP FSAC\CafeEra\CafeEraApi\CafeEraApi\obj\Debug\net8.0\ref\CafeEraApi.dll
+C:\Users\youness zagouri\Desktop\LP FSAC\CafeEra\CafeEraApi\CafeEraApi\obj\Debug\net8.0\CafeEraApi.sourcelink.json

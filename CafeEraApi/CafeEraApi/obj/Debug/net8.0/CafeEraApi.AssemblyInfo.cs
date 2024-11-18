@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CafeEraApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0978eb1ab49253457e00777d854708c804d8c30b")]
 [assembly: System.Reflection.AssemblyProductAttribute("CafeEraApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CafeEraApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,14 +1,18 @@
 using CafeEraApi.Context;
+using CafeEraApi.Services;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddScoped<RoleService>();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+// Add the context "CafeEraContext"
 builder.Services.AddDbContext<CafeEraContext>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("sqlServerConnection"));
